@@ -50,8 +50,4 @@ The software features of the iPhone Ordering Application include:
 - **Data Calculation**: Accurately calculate and display order totals and sales figures.
 - **File Handling**: Implement file handling to support text file uploads for catalog updates.
 - **Image Handling**: Enable the association of images with products to enhance the user experience.
-- **Search and Filter Algorithms**: Implement efficient search and filter algorithms to improve product selection.
 - **Data Visualization**: Create visually appealing pie charts to visualize sales data.
-- **Secure Transactions**: Ensure that all transactions are conducted securely to protect user data.
-- **Error Handling**: Implement error-handling mechanisms to provide users with clear feedback in case of issues.
-- **Scalability**: Design the application with scalability in mind to accommodate potential future growth.
